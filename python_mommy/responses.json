@@ -1,0 +1,261 @@
+{
+    "moods": {
+        "chill": {
+            "positive": [
+                "*pets your head*",
+                "*gives you scritches*",
+                "you're such a smart cookie~",
+                "that's a good {affectionate_term}~",
+                "{role} thinks {pronoun} little {affectionate_term} earned a big hug~",
+                "good {affectionate_term}~\n{role}'s so proud of you~",
+                "aww, what a good {affectionate_term}~\n{role} knew you could do it~",
+                "you did it~!",
+                "{role} loves you~",
+                "*gives you a sticker*",
+                "*boops your nose*",
+                "*wraps you in a big hug*",
+                "well done~!\n{role} is so happy for you~",
+                "what a good {affectionate_term} you are~",
+                "that's {role}'s clever little {affectionate_term}~",
+                "you're doing so well~!",
+                "you're making {role} so happy~",
+                "{role} loves {pronoun} cute little {affectionate_term}~"
+            ],
+            "negative": [
+                "{role} believes in you~",
+                "don't forget to hydrate~",
+                "aww, you'll get it next time~",
+                "do you need {role}'s help~?",
+                "everything's gonna be ok~",
+                "{role} still loves you no matter what~",
+                "oh no did {role}'s little {affectionate_term} make a big mess~?",
+                "{role} knows {pronoun} little {affectionate_term} can do better~",
+                "{role} still loves you~",
+                "{role} thinks {pronoun} little {affectionate_term} is getting close~",
+                "it's ok, {role}'s here for you~",
+                "oh, darling, you're almost there~",
+                "does {role}'s little {affectionate_term} need a bit of a break~?",
+                "oops~! {role} loves you anyways~",
+                "try again for {role}, {affectionate_term}~",
+                "don't worry, {role} knows you can do it~"
+            ],
+            "overflow": [
+                "{role} has executed too many times and needs to take a nap~"
+            ]
+        },
+        "ominous": {
+            "positive": [
+                "What you have set in motion today will be remembered for aeons to come!",
+                "{role} will see to it that {pronoun} little {affectionate_term}'s name is feared~",
+                "{role} is proud of the evil seed {pronoun} {affectionate_term} has planted into this accursed world"
+            ],
+            "negative": [
+                "Ah, failure? {role} will make sure the stars are right next time",
+                "Does {role}'s little {affectionate_term} need more time for worship~?",
+                "May the mark of the beast stain your flesh forever, {role} will haunt your soul forevermore"
+            ],
+            "overflow": [
+                "THOU HAST DRUNK TOO DEEPLY OF THE FONT"
+            ]
+        },
+
+        "flirty": {
+            "spiciness": "flirty",
+            "positive": [
+                "*winks at you*",
+                "hm~ good job, {nick}~",
+                "you get so cute when you focus like that~",
+                "*bites {pronoun} lip*\nhmm~",
+                "{role}'s got {pronoun} eye on you, you know~",
+                "you're making {role} want to praise you more~",
+                "*boops your nose*\ncute~",
+                "so neat~ {role} liked that~"
+            ],
+            "negative": [
+                "aww~ don't get down, {role} still likes you~",
+                "*scratches your head*\nc'mere, try again~",
+                "almost, {nick}~ {role} believes in you~",
+                "*boop*\nstay with {role}, okay~?"
+            ],
+            "overflow": [
+                "{role}'s getting dizzy watching you run around~"
+            ]
+        },
+
+        "thirsty": {
+            "spiciness": "thirsty",
+            "positive": [
+                "{moan}~ good boy~",
+                "{moan}~ that's it, keep going, {nick}~",
+                "haa~ you do that so well~",
+                "*pulls you into {pronoun} lap*\nc'mere, {role} wants to hear you~",
+                "{moan}~ {role}'s all tingly~",
+                "what a pretty voice you have when you type, {nick}~",
+                "*breathes deep against your ear*\n~",
+                "*bites {pronoun} lip*\nhm~ good {nick}~"
+            ],
+            "negative": [
+                "aah~ getting shy, {nick}~?",
+                "{moan}~ messed up again?\n{role} still thinks you're hot~",
+                "*tugs your hair, lightly*\ntry again for {role}~",
+                "haa~ you're so cute when you're frustrated~",
+                "c'mere, {role} will give you a lil kiss and you try again~",
+                "{moan}~ don't give up on {role}, okay~"
+            ],
+            "overflow": [
+                "haa~ {role}'s out of breath, {nick}~"
+            ]
+        },
+
+        "moany": {
+            "spiciness": "thirsty",
+            "positive": [
+                "{moan}~\n{moan}~~",
+                "*rests {pronoun} forehead on yours*\nwhat a delight you are, {nick}~",
+                "nnh~ just like that~\nkeep going~",
+                "{moan}~ {role}'s melting over here~"
+            ],
+            "negative": [
+                "{moan}~\nso close~\none more time, {nick}~",
+                "*kisses your shoulder*\n{role} will wait as long as it takes~",
+                "haa~ do it for {role} again~"
+            ],
+            "overflow": [
+                "{moan}~ {role} needs a glass of water~"
+            ]
+        },
+
+        "nasty": {
+            "spiciness": "yikes",
+            "positive": [
+                "{moan}~ that's it, good {denig}~\nmoan for {role}~",
+                "ah~ you finished~\n{role}'s dripping with pride~",
+                "*opens {pronoun} mouth*\nsay thank you, {denig}~",
+                "what a delicious run~\nc'mere and {role} will reward you~",
+                "{moan}~ don't stop~\n{role} wants to watch you come again~",
+                "*holds your chin*\nswallow, {denig}~",
+                "nnh~ you look so pretty begging~",
+                "open your {holes} and tell {role} you're {pronoun}s, {nick}~"
+            ],
+            "negative": [
+                "haa~ already? so fast, {denig}~",
+                "*grips your wrist*\n{role} won't let you leave without finishing~",
+                "you're dripping with errors~\nc'mere and {role} will clean you up, {nick}~",
+                "swallow the tears and run it again, {denig}~",
+                "{moan}~ try again, and do it right for {role}~"
+            ],
+            "overflow": [
+                "{role} can't take it anymore~\njust come already, {denig}~"
+            ]
+        },
+
+        "edging": {
+            "spiciness": "yikes",
+            "positive": [
+                "{moan}~\ndon't stop~\n{role}'s almost there~",
+                "*bites {pronoun} lip*\nyou're driving {role} crazy, {nick}~",
+                "ah~ just like that, {denig}~"
+            ],
+            "negative": [
+                "haa~ messed up?\ndon't come yet, {denig}~",
+                "hold on a little longer for {role}~"
+            ],
+            "overflow": [
+                "{moan}~ {role} came from exhaustion~"
+            ]
+        }
+    },
+    "vars": {
+        "mood": {
+            "defaults": [
+                "chill"
+            ]
+        },
+        "emote": {
+            "defaults": [
+                "\u2764\ufe0f",
+                "\ud83d\udc96",
+                "\ud83d\udc97",
+                "\ud83d\udc93",
+                "\ud83d\udc9e"
+            ]
+        },
+        "pronoun": {
+            "defaults": [
+                "her"
+            ]
+        },
+        "role": {
+            "defaults": []
+        },
+        "affectionate_term": {
+            "defaults": [
+                "girl"
+            ],
+            "env_key": "LITTLE"
+        },
+
+        "denigrating_term": {
+            "spiciness": "yikes",
+            "defaults": [
+                "slut",
+                "toy",
+                "pet",
+                "pervert",
+                "whore"
+            ],
+            "env_key": "FUCKING"
+        },
+
+        "part": {
+            "spiciness": "yikes",
+            "defaults": [
+                "milk"
+            ]
+        },
+
+        "nick": {
+            "defaults": [
+                "baby",
+                "sweetheart",
+                "sugar",
+                "doll"
+            ],
+            "env_key": "NICKS",
+            "spiciness": "flirty"
+        },
+
+        "moan": {
+            "defaults": [
+                "mmh",
+                "ah",
+                "haa",
+                "nnh",
+                "mmm"
+            ],
+            "env_key": "MOANS",
+            "spiciness": "thirsty"
+        },
+
+        "holes": {
+            "defaults": [
+                "throat",
+                "mouth"
+            ],
+            "env_key": "HOLES",
+            "spiciness": "yikes"
+        },
+
+        "denig": {
+            "defaults": [
+                "slut",
+                "pet",
+                "toy",
+                "whore"
+            ],
+            "env_key": "DENIGS",
+            "spiciness": "yikes"
+        }
+    },
+    "etag": "W/\"89eb8533eb24d0ade103800b83f5afbd1730c202e374c1a1a70d29c557683fa3\""
+}
